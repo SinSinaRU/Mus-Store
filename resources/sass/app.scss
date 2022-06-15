@@ -1,0 +1,54 @@
+@import "_variables";
+@import "node_modules/bootstrap/scss/bootstrap";
+@import 'node_modules/suneditor/dist/css/suneditor.min';
+
+*:focus{
+    border-color: $black !important;
+    box-shadow: 0 0 0 0 !important;
+}
+*, *:before, *:after {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.btn {
+    box-shadow: 0 4px 4px rgb(0 0 0 / 25%) !important;
+    color: $black !important;
+    margin-top: 15px !important;
+    background-color: $add-color !important;
+    border-color: $add-color !important;
+}
+
+.btn:hover, .btn:focus, btn:active {
+    color: $black !important;
+    background-color: $add-color !important;
+    border-color: $black !important;
+}
+
+a {
+    text-decoration: none;
+
+&:hover {
+     text-decoration: none;
+ }
+}
+
+li {
+    list-style: none;
+}
+
+html, body {
+    height: 100%;
+    font-family: 'Lucida Bright';
+    font-style: italic ;
+    font-weight: 400;
+    font-size: 23px !important;
+    line-height: 25px;
+    background: $main-color;
+}
+
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+    padding: 0 0px;
+}

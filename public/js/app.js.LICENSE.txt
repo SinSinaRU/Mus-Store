@@ -1,0 +1,162 @@
+/*!
+  * Bootstrap v5.1.3 (https://getbootstrap.com/)
+  * Copyright 2011-2021 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
+
+/*!
+  * vue-router v4.0.15
+  * (c) 2022 Eduardo San Martin Morote
+  * @license MIT
+  */
+
+/*!
+ * vuex v4.0.2
+ * (c) 2021 Evan You
+ * @license MIT
+ */
+
+/*!
+ * wavesurfer.js 3.3.3 (2020-04-16)
+ * https://github.com/katspaugh/wavesurfer.js
+ * @license BSD-3-Clause
+ */
+
+/*! ./ajax */
+
+/*! ./drawer */
+
+/*! ./drawer.canvasentry */
+
+/*! ./drawer.multicanvas */
+
+/*! ./extend */
+
+/*! ./fetch */
+
+/*! ./frame */
+
+/*! ./get-id */
+
+/*! ./max */
+
+/*! ./mediaelement */
+
+/*! ./mediaelement-webaudio */
+
+/*! ./min */
+
+/*! ./observer */
+
+/*! ./peakcache */
+
+/*! ./prevent-click */
+
+/*! ./request-animation-frame */
+
+/*! ./style */
+
+/*! ./util */
+
+/*! ./util/get-id */
+
+/*! ./util/style */
+
+/*! ./webaudio */
+
+/*! debounce */
+
+/*! no static exports found */
+
+/*!***********************!*\
+  !*** ./src/drawer.js ***!
+  \***********************/
+
+/*!*************************!*\
+  !*** ./src/util/max.js ***!
+  \*************************/
+
+/*!*************************!*\
+  !*** ./src/util/min.js ***!
+  \*************************/
+
+/*!*************************!*\
+  !*** ./src/webaudio.js ***!
+  \*************************/
+
+/*!**************************!*\
+  !*** ./src/peakcache.js ***!
+  \**************************/
+
+/*!**************************!*\
+  !*** ./src/util/ajax.js ***!
+  \**************************/
+
+/*!***************************!*\
+  !*** ./src/util/fetch.js ***!
+  \***************************/
+
+/*!***************************!*\
+  !*** ./src/util/frame.js ***!
+  \***************************/
+
+/*!***************************!*\
+  !*** ./src/util/index.js ***!
+  \***************************/
+
+/*!***************************!*\
+  !*** ./src/util/style.js ***!
+  \***************************/
+
+/*!***************************!*\
+  !*** ./src/wavesurfer.js ***!
+  \***************************/
+
+/*!****************************!*\
+  !*** ./src/util/extend.js ***!
+  \****************************/
+
+/*!****************************!*\
+  !*** ./src/util/get-id.js ***!
+  \****************************/
+
+/*!*****************************!*\
+  !*** ./src/mediaelement.js ***!
+  \*****************************/
+
+/*!******************************!*\
+  !*** ./src/util/observer.js ***!
+  \******************************/
+
+/*!***********************************!*\
+  !*** ./src/drawer.canvasentry.js ***!
+  \***********************************/
+
+/*!***********************************!*\
+  !*** ./src/drawer.multicanvas.js ***!
+  \***********************************/
+
+/*!***********************************!*\
+  !*** ./src/util/prevent-click.js ***!
+  \***********************************/
+
+/*!**************************************!*\
+  !*** ./src/mediaelement-webaudio.js ***!
+  \**************************************/
+
+/*!****************************************!*\
+  !*** ./node_modules/debounce/index.js ***!
+  \****************************************/
+
+/*!*********************************************!*\
+  !*** ./src/util/request-animation-frame.js ***!
+  \*********************************************/
+
+/**
+ * @license
+ * Lodash <https://lodash.com/>
+ * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+ * Released under MIT license <https://lodash.com/license>
+ * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+ * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+ */
